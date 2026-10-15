@@ -27,6 +27,4 @@ public class CorsConfig {
         return new CorsFilter(source);
     }
 }
-    }
-}
-}
+
